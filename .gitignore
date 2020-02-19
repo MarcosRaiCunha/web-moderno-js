@@ -1,0 +1,4 @@
+*.log
+*.lock
+*.err
+node_modules
